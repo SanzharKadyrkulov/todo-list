@@ -110,4 +110,6 @@ editForm.addEventListener('submit', (e) => {
 	modal.style.visibility = 'hidden';
 });
 
-console.log('some changes')
+console.log('some changes');
+
+console.log('new branch');
