@@ -109,3 +109,5 @@ editForm.addEventListener('submit', (e) => {
 	editTodo(id, editedTodo);
 	modal.style.visibility = 'hidden';
 });
+
+console.log('some changes')
